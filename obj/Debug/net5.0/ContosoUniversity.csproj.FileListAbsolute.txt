@@ -169,3 +169,8 @@ D:\Development\vs\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Delete
 D:\Development\vs\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Details.cshtml.g.cs
 D:\Development\vs\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Edit.cshtml.g.cs
 D:\Development\vs\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Students\Index.cshtml.g.cs
+D:\Development\vs\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Create.cshtml.g.cs
+D:\Development\vs\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Delete.cshtml.g.cs
+D:\Development\vs\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Details.cshtml.g.cs
+D:\Development\vs\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Edit.cshtml.g.cs
+D:\Development\vs\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Index.cshtml.g.cs

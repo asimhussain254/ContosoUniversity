@@ -15618,8 +15618,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Development\\vs\\ContosoUniversity\\Pages\\Courses\\Delete.cshtml",
+      "TargetPath": "Pages\\Courses\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Development\\vs\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Development\\vs\\ContosoUniversity\\Pages\\Courses\\Create.cshtml",
+      "TargetPath": "Pages\\Courses\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15630,6 +15640,21 @@
     {
       "FilePath": "d:\\Development\\vs\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Development\\vs\\ContosoUniversity\\Pages\\Courses\\Details.cshtml",
+      "TargetPath": "Pages\\Courses\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Development\\vs\\ContosoUniversity\\Pages\\Courses\\Index.cshtml",
+      "TargetPath": "Pages\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Development\\vs\\ContosoUniversity\\Pages\\Courses\\Edit.cshtml",
+      "TargetPath": "Pages\\Courses\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
