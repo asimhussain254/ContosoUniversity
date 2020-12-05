@@ -15628,6 +15628,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Development\\vs\\ContosoUniversity\\Pages\\About.cshtml",
+      "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Development\\vs\\ContosoUniversity\\Pages\\Courses\\Create.cshtml",
       "TargetPath": "Pages\\Courses\\Create.cshtml",
       "FileKind": "mvc"
